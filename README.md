@@ -1,3 +1,7 @@
+# 圖檔優化
+
+用docker來縮小圖檔
+
 ### 建立自己的image
 
 <code>docker build -t optimize-image .</code>
